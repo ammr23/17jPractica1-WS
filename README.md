@@ -1,8 +1,13 @@
 # Practica1-WS
-## Subtitulo
-- viñeta 1
-- viñeta 2
+## Software
+- Git -> https://git-scm.com/download/win
+- Node -> https://nodejs.org/en/download 
+- Visual Studio code -> https://code.visualstudio.com/
   
-`codigo mp`
+## Create Backend project
+
+```
+cd backend
+```
 
 *cursiva*
