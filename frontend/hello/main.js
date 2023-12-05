@@ -13,7 +13,7 @@ pingButton.addEventListener('click',getPingFromWebServices)
 }*/
 
 function getPingFromWebServices(){
-    const url = 'http://localhost:3000/ping'
+    const url = 'http://3.145.183.222:3000/ping'
 
     //Encadenar los datos de la url con la respuesta
     fetch (url)
