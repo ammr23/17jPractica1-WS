@@ -10,5 +10,6 @@
 ```
 cd backend
 ```
+Librerias Node -> https://www.npmjs.com/  
 
 *cursiva*
